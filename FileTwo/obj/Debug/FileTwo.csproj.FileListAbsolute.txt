@@ -1,0 +1,7 @@
+c:\users\fisher foster\source\repos\FileTwo\FileTwo\bin\Debug\FileTwo.exe.config
+c:\users\fisher foster\source\repos\FileTwo\FileTwo\bin\Debug\FileTwo.exe
+c:\users\fisher foster\source\repos\FileTwo\FileTwo\bin\Debug\FileTwo.pdb
+c:\users\fisher foster\source\repos\FileTwo\FileTwo\obj\Debug\FileTwo.csprojResolveAssemblyReference.cache
+c:\users\fisher foster\source\repos\FileTwo\FileTwo\obj\Debug\FileTwo.csproj.CoreCompileInputs.cache
+c:\users\fisher foster\source\repos\FileTwo\FileTwo\obj\Debug\FileTwo.exe
+c:\users\fisher foster\source\repos\FileTwo\FileTwo\obj\Debug\FileTwo.pdb
